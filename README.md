@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Epitech projects and new skills.**
 - 📫 How to reach me **anais.parenti@epitech.eu**
-- ⚡ Fun fact **I have the same memory as Dory.**
+- ⚡ Fun fact **I have the same memory as Dory and I love badges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananasparenti&theme=jolly&_icons=true&locale=en&layout=compact" alt="ananasparenti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananasparenti&theme=jolly&_icons=true&locale=en" alt="ananasparenti" /></p>
+
+[![forthebadge](https://forthebadge.com/images/badges/approved-by-my-mom.svg)](https://forthebadge.com)
